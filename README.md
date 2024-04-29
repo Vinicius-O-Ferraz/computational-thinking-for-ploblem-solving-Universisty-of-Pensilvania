@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/Vinicius-O-Ferraz/computational-thinking-for-ploblem-solving-Universisty-of-Pensilvania/assets/146992032/0e807585-278f-4ac8-9707-05fcd9b58f21" width="50%" height="auto" alt="Sublime's custom image"/>
+  <img src="https://th.bing.com/th/id/OIP.wz8oks5ZEiKlt7nZWX819wHaEv?rs=1&pid=ImgDetMain" width="50%" height="auto" alt="Sublime's custom image"/>
 </p>
 
 Computational thinking is the process of approaching a problem in a systematic manner and creating and expressing a solution such that it can be carried out by a computer.  But you don't need to be a computer scientist to think like a computer scientist!  In fact, we encourage students from any field of study to take this course.  Many quantitative and data-centric problems can be solved using computational thinking and an understanding of computational thinking will give you a foundation for solving problems that have real-world, social impact.   
